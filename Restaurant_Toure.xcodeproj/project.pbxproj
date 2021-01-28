@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		8837D7CF258580FC00E0FB61 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837D7CE258580FC00E0FB61 /* AppDelegate.swift */; };
-		8837D7D1258580FC00E0FB61 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837D7D0258580FC00E0FB61 /* SceneDelegate.swift */; };
 		8837D7D3258580FC00E0FB61 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837D7D2258580FC00E0FB61 /* ViewController.swift */; };
 		8837D7D6258580FC00E0FB61 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8837D7D4258580FC00E0FB61 /* Main.storyboard */; };
 		8837D7D8258580FD00E0FB61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8837D7D7258580FD00E0FB61 /* Assets.xcassets */; };
@@ -291,7 +290,6 @@
 				8837D8072585831300E0FB61 /* MenuTableViewController.swift in Sources */,
 				8837D81125858D4900E0FB61 /* MenuItemDetailViewController.swift in Sources */,
 				8837D8252585907800E0FB61 /* MenuController.swift in Sources */,
-				8837D7D1258580FC00E0FB61 /* SceneDelegate.swift in Sources */,
 				8837D81B25858F5800E0FB61 /* IntermediaryModels.swift in Sources */,
 				8837D82A2588126200E0FB61 /* OrderConfirmationViewController.swift in Sources */,
 				8837D81625858EC900E0FB61 /* MenuItem.swift in Sources */,
